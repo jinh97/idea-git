@@ -4,4 +4,5 @@ public class People {
     private Long pid;
     private String name;
     private Integer age;
+    private String email;
 }
