@@ -8,5 +8,4 @@ public class User {
     private String phone;
     private String num;
     private String height;
-    private String weight;
 }
